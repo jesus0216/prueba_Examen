@@ -1,11 +1,11 @@
-# Sistema de Gestión Médica
+# Sistema de Gestión de Citas Médicas
 
-## 👥 Integrantes
-- Juan Pérez
-- Ana López
-- Carlos Ruiz
+## Integrantes
+- Felipe Hernández
+- Mariana López
+- Jorge Castro
 
-## 📋 Descripción
-Sistema web para la gestión de citas médicas, pacientes y personal médico.
+## Descripción
+Sistema web que permite agendar, modificar y gestionar citas médicas de manera eficiente.
 
-## 📁 Estructura de carpetas
+
